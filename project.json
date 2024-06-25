@@ -1,6 +1,10 @@
 [
   {
-    "key": "vue3-template",
+    "name": "vue3-template",
     "value": "vue3-template"
+  },
+  {
+    "name": "vue3-template-admin",
+    "value": "vue3-template-admin"
   }
 ]
